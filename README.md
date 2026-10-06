@@ -1,5 +1,3 @@
-# Student Performance Analysis using Python
-
 ## Project Overview
 This project analyzes student performance data using Python. The aim is to understand students' marks and identify factors that may affect their academic performance.
 
